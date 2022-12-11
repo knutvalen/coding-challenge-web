@@ -24,7 +24,7 @@ Space X has APIs where many of the read-endpoints are open and can be used to ge
 https://github.com/r-spacex/SpaceX-API
 
 ## Deadline
-There is no special requirements to deliver quickly. It is more important to the client that the app is delivered with high quality.
+There is no special requirements to deliver quickly. It is more important for the client that the app is delivered with high quality.
 
 ## Delivery
 The app should be delivered as a public git repository. 
