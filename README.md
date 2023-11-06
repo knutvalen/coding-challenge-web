@@ -17,6 +17,7 @@ A potential client has just discovered her fascination of Space X’s rockets an
 * Responsive web app that works well on both large and small screens.
 * Next.js. Use its Static Generation pre-rendering of the pages. 
 * React. Use its Hooks instead of Classes.
+* Styled Components for styling the user interface. 
 
 ## Resources
 Space X has APIs where many of the read-endpoints are open and can be used to get the data needed:
